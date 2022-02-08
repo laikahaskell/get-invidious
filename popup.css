@@ -1,0 +1,11 @@
+.hidden {
+	display: none;
+}
+
+#foo{
+}
+
+#error{
+	color: red;
+	font-weight: bold;
+}
