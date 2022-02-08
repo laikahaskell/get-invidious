@@ -17,7 +17,7 @@ In the future, the extension will be added to the Firefox store or downloadable 
 The add-on should now be usable.
 
 # Usage
-Go to any YouTube page. Click the add-on's icon in the toolbar, specify an Invidious [instance](https://redirect.invidious.io/) (default is yewtu.be), click "Go!", then click the resulting link!
+Go to any YouTube page. Click the add-on's icon in the toolbar, specify an Invidious [instance](https://invidious.io/) (default is yewtu.be), click "Go!", then click the resulting link!
 
 # Features TODO
 - Add downloadable XPI file
